@@ -22,11 +22,11 @@ File 5-listfilesdigitonly displays current directory contents in long format, wi
 
 
 
-File 6-firstdirectory creates a script that creates a directory named holberton in the /tmp/ directory.
+File 6-firstdirectory creates a script that creates a directory named my_first_directory in the /tmp/ directory.
 
 
 
-File 7-movethatfile moves the file betty from /tmp/ to /tmp/holberton.
+File 7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory.
 
 
 
@@ -34,7 +34,7 @@ File 8-firstdelete deletes he file betty.
 
 
 
-File 9-firstdirdeletion deletes the directory holberton that is in the /tmp directory.
+File 9-firstdirdeletion deletes the directory my_first_directory that is in the /tmp directory.
 
 
 
@@ -66,7 +66,7 @@ File 16-clean_emacs creates a script that deletes all files in the current worki
 
 
 
-File 17-tree creates a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory.
+File 17-tree creates a script that creates the directories welcome/, welcome/to/ and welcome/to/school in the current directory.
 
 
 

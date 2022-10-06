@@ -1,4 +1,4 @@
-File 0-iam_betty creates a script that changes your user ID to betty.
+File 0-iam_betty creates a script that switches the current user to the user betty.
 
 
 
